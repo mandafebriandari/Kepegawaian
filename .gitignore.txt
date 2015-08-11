@@ -1,0 +1,2 @@
+1#maven ignore
+2 target
